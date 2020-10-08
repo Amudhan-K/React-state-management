@@ -1,0 +1,10 @@
+.nav{
+    display:flex;
+    background-color:rgb(9, 9, 27);
+    height: 2cm;
+    
+}
+.header{
+    color: white;
+    display: flex;
+}
